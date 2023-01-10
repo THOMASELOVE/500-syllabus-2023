@@ -1,0 +1,57 @@
+# Assignments
+
+The four types of assignments required of you in this course are:
+
+1. A semester-long project
+2. An "observational studies in action" presentation
+3. A few brief "essays" about chapters in the Rosenbaum (2017) text, and
+4. Several "labs" using R to perform and present analyses.
+
+## Deadlines
+
+All deadlines will be found on [the Course Calendar](https://thomaselove.github.io/500-2023/calendar.html).
+
+## The Course Project
+
+You will do a small observational study as a capstone project for the course. Your deliverables include:
+
+1. a **proposal** which you will submit for my approval before proceeding further.
+2. an **update** verifying that you have the data and are proceeding appropriately.
+3. a final **presentation** to the class about your results accompanied by an **abstract**, and by R Markdown and HTML files that describe the work you did. 
+
+Instructions and supplemental materials for the Course Project [are available here](https://thomaselove.github.io/500-2023/project.html).
+
+## An "Observational Studies in Action" presentation
+
+During the semester, you will be responsible for presenting the methods and results of an observational study from the literature that uses propensity scores. Your choice of manuscript must be accepted in advance by Dr. Love. After you've claimed a study, you'll give a 15-minute presentation of it to the class, and you'll also act as "second reviewer" for one of the studies selected by your colleagues.
+
+Instructions and supplemental materials for the OSIA work [are available here](https://github.com/THOMASELOVE/500-2023/tree/master/osia).
+
+## Lab Assignments
+
+Several lab assignments require you to do some analyses (using R and R Markdown) on data we will provide to you. 
+
+Details on the lab assignments [are available here](https://github.com/THOMASELOVE/500-2023/tree/master/labs).
+
+## Essays in reaction to the course text
+
+In most sessions, we will be reading chapters from Paul Rosenbaum's *Observation and Experiment*. Later in the term, we'll be asking you to produce brief essays after reading chapters from the book, to share with the rest of the class. 
+
+The essay prompts [are available here](https://github.com/THOMASELOVE/500-2023/tree/master/essays).
+
+## A Note on Feedback
+
+500 is a very different course from 431-432 in terms of the "hands on" assistance that I make available to you as you're working on a lab. In particular, I'm not going to review your code to be sure you're going in the right direction, even though I understand some of you have come to expect that from 431-432.
+
+Instead, we discuss the homework in class and we provide a detailed answer sketch after the fact. So if you have questions, please feel free to send them to me (Dr. Love), but what I am likely to say to anything I cannot resolve quickly for you (or think is worthy of deeper discussion as a group) is: 
+
+1. That sounds like an excellent question to bring up on Thursday in class, and 
+2. I'm going to let you (and everyone else) flounder a bit between now and our discussion of this homework in class.
+
+## Grading
+
+- If you complete all deliverables **on time**, and your project and OSIA presentations are solid, you will receive an A in the course.
+    - If you mostly meet that standard but don't quite (either because more than one thing is late or because you have substantial project problems that linger), either an A or B is possible.
+- This is an advanced graduate school course. I don't anticipate that anyone who makes a concerted effort will fall below the B standard, as no one has in the past. 
+- If you have any concerns, raise them with Dr. Love (email is fine) directly as soon as possible. 
+
